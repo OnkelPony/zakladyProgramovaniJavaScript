@@ -5,7 +5,7 @@ Napište program, který určí, zdali se žáby s danými parametry xA, xB, sA,
 let xA = 108;
 let xB = 666;
 let sA = 3;
-let sB = 2;
+let sB = 5;
 
 if (sA <= sB) {
     console.log("Žáby se nikdy nepotkají.");
